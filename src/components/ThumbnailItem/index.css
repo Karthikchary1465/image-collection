@@ -1,0 +1,24 @@
+/* Write your code here. */
+.thumbnail-list-item {
+  margin-bottom: 16px;
+  margin-bottom: 16px;
+  margin-left: 5px;
+}
+
+.thumbnail-button {
+  background: transparent;
+  border: none;
+  padding: 0px;
+  outline: none;
+  cursor: pointer;
+}
+
+.thumbnail {
+  height: 65px;
+  width: 65px;
+  opacity: 0.5;
+}
+
+.active {
+  opacity: 1;
+}
